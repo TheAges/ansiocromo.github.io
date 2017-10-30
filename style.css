@@ -38,7 +38,8 @@ p {color:white;}
   position:relative;
   height:920px;
   width:100%;
-  display:inline-block;
+  display:inline-flex;
+  flex-direction: column;
 }
 
 #mail-txt {
